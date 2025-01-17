@@ -21,14 +21,16 @@ A simple web-based Product Management application built with Laravel, Bootstrap,
 ### Product Create
 ![Product Create](./screenshots/create.png)
 
+### Product Edit
+![Product Edit](./screenshots/edit.png)
+
+
 ### Product View
 ![Product View](./screenshots/view.png)
 
 ### Product Shop
 ![Product Shop](./screenshots/shop.png)
 
-### Product Edit
-![Product Edit](./screenshots/edit.png)
 
 ---
 
